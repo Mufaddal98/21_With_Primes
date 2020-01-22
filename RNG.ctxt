@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RNG
+comment1.params=minimumValue\ maximumValue
+comment1.target=RNG(int,\ int)
+comment2.params=
+comment2.target=RNG()
+comment3.params=minimumValue\ maximumValue
+comment3.target=int\ randomNumGen(int,\ int)
+comment3.text=\r\n\ \ \ \ Generates\ a\ random\ integer\ between\ the\ range\ given,\ that\ is,\ minimum\ and\ maximum\ value\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\nThe\ purpose\ of\ this\ Menu\ class\ is\ to\ display\ the\ landing\ menu\ of\ this\ game.\ Once\ the\ project\ is\ executed\r\nit\ will\ display\ this\ menu\ to\ the\ user.\ The\ user\ will\ select\ one\ of\ the\ options\ which\ will\ them\ be\ directed\ to\ Game\r\nor\ Player\ class\ using\ switch-cases.\ This\ class\ doesn't\ have\ an\ actual\ role\ to\ play\ in\ the\ actual\ gameplay.\r\nMenu\ class\ is\ only\ there\ to\ display\ menu\ and\ input\ user's\ choice\ and\ direct\ the\ gameplay\ to\ other\ classes\ accordingly\r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ displayStartMenu()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ checkOption1()
+numComments=5
